@@ -17,4 +17,7 @@ I started by recruiting “runners” to deliver fresh burger from Burger Runner
 9) How many runners signed up for each 1 week period?
 10) What was the average distance travelled for each customer?
 
+## Note:
 The description of tables and link to the dataset is provided in the file.
+<br>
+The code in the file is written in Postgre SQL. Make changes according to your DBMS.
