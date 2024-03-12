@@ -21,3 +21,6 @@ I started by recruiting “runners” to deliver fresh burger from Burger Runner
 The description of tables and link to the dataset is provided in the file.
 <br>
 The code in the file is written in Postgre SQL. Make changes according to your DBMS.
+
+## Feedback and Support
+For any queries, feedback or suggestions please reach out to: rohan0804singh@gmail.com
